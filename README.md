@@ -11,7 +11,7 @@ A web-based expense tracker built with HTML, CSS, and JavaScript that allows use
 - Wrong entries discarded
 - Expenses saved after refreshing the page
 
-## Technologies used
+## Technologies Used
 
 - HTML
 - CSS
