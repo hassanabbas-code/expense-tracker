@@ -8,7 +8,7 @@ A web-based expense tracker built with HTML, CSS, and JavaScript that allows use
 - Removal of expenses
 - Viewing of expenses
 - Totaling of expenses
-- Wrong entries discarded
+- Wrong entries are rejected
 - Expenses saved after refreshing the page
 
 ## Technologies Used
